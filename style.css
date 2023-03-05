@@ -1,0 +1,60 @@
+body {
+  background-color: rgb(181, 234, 186);
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 500;
+  line-height: 1.5;
+  text-align:center;
+}
+
+h1 {
+  color: black;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  }
+
+ul,
+ol {
+  list-style-type: none;
+  text-align: center;
+    }
+
+.foto-omne {
+  width: 300px;
+  margin: 20px auto;
+  border-radius: 10%;
+  border: 2px solid #756158;
+}
+
+.face {
+  width: 1em;
+  height: 1em;
+}
+
+.insta {
+  width: 1em;
+  height: 1em;
+}
+
+.email {
+  width: 1em;
+  height: 1em;
+}
+
+a {
+  color: #3c00c9;
+  font-style: normal;
+  text-decoration:none
+}
+
+a:hover {
+  color: #de08e6;
+}
